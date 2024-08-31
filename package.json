@@ -1,5 +1,5 @@
 {
-  "name": "cli-simple-calculator",
+  "name": "aui-cli-simple-calculator",
   "version": "1.0.0",
   "description": "This Is A CLI Based calculator Project. This Project Developed By Afaq UL Islam.Run This Command To Your CMD For Testing 'npx cli-simple-calculator'",
   "main": "main.js",
